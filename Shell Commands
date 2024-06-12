@@ -4,3 +4,9 @@ vi/vim <filename> --> to edit a file
 cat <filename> --> print content of the file
 ./filename or sh filename.sh --> to execute the script
 chmod --> changes permissions
+top --> lists all the process that are running currently
+df --> printing disk space
+free --> getting free space info
+nproc--> number of CPUs
+set -x --> turn on debug mode( show the commands which are being executed)
+ps -ef --> list of the process in full format with all details
