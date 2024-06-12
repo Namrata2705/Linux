@@ -1,0 +1,6 @@
+touch file.sh --> to create a file ( imp in automation)
+man <any command> --> discribe the command in detail
+vi/vim <filename> --> to edit a file
+cat <filename> --> print content of the file
+./filename or sh filename.sh --> to execute the script
+chmod --> changes permissions
